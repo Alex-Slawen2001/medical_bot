@@ -1,0 +1,5 @@
+aiogram==3.10.0
+requests==2.31.0
+feedparser==6.0.10
+gspread==6.1.0
+oauth2client==4.1.3
