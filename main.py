@@ -4,7 +4,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 from handlers import register_handlers
 
-TOKEN = "8357001490:AAHfcrxsJyCUM6NOAuCnmExJZguyVPJKQr0"
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
