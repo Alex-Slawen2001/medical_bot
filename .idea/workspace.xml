@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd4de6f3-a058-4df6-96ea-de9f10e37799" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bd4de6f3-a058-4df6-96ea-de9f10e37799" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
